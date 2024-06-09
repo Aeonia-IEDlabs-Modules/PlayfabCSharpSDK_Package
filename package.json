@@ -1,0 +1,27 @@
+{
+    "name": "com.playfab.playfabsdk",
+    "version": "1.178.240402",
+    "displayName": "Playfab SDK",
+    "description": "Playfab C# SDK",
+    "unity": "2023.2",
+    "unityRelease": "16f1",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/IEDLabs-Modules/Playfab_CSharpSDK_Package.git#1.178.240402.git"
+    },
+    "dependencies":
+    {
+        "org.pollyproject.polly": "7.3.1"
+    },
+    "keywords":
+    [
+        "Services",
+        "Player",
+        "Cloud",
+        "Remote",
+        "Cross Platform"
+    ],
+    "author": "Microsoft <playfab@microsoft.com>",
+    "hideInEditor": false
+}
